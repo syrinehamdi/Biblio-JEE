@@ -1,0 +1,29 @@
+SMAP
+list_002dstudents_jsp.java
+JSP
+*S JSP
+*F
++ 0 list-students.jsp
+list-students.jsp
++ 1 header-side.jsp
+header-side.jsp
++ 2 modal.jsp
+modal.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1,35:61
+1#1,319:96
+35#0,40:414
+74:786,11
+75:797
+76,7:798,3
+83,2:819
+85:821,3
+86,3:824
+88,9:456
+1#2,259:465
+96#0,5:724
+1#3,12:729
+100#0,29:740
+*E

@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.cdnfonts.com/css/wolvertton-signature');
+html, body { height: 100%; }
+body { margin: 0; font-family:'Times New Roman', Times, serif }
+.logo {
+  font-family: "Wolvertton Signature", sans-serif;
+  word-spacing: 15px;
+  font-size: 70px;
+  font-weight: 500 !important;
+  color: #103025;
+  text-shadow: 2px 2px white;
+}
+div .card {
+  background-color: rgba(16, 48, 37, 0.8);
+  color: white;
+}
+img {
+  object-fit: cover;
+  left: 0 !important;
+  right: 0 !important;
+  opacity: 0.5;
+  margin-left: auto;
+  margin-right: auto;
+}
+.beige {
+  background-color: #b6aeab  !important;
+}
+.beige-text {
+  color: #b6aeab  !important;
+}
+.bi{
+  color:#103025
+}

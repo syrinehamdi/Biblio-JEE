@@ -1,0 +1,29 @@
+SMAP
+list_002dbooks_jsp.java
+JSP
+*S JSP
+*F
++ 0 list-books.jsp
+list-books.jsp
++ 1 header-side.jsp
+header-side.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,37:60
+1#1,319:96
+37#0,47:414
+83:525,11
+84:536
+85:537,3
+86:540,5
+87,2:545,3
+89,2:551
+91:553,3
+92,7:556
+99:563,3
+100,6:566
+105,6:463
+1#2,12:469
+110#0,28:480
+*E

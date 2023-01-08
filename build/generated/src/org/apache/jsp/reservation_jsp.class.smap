@@ -1,0 +1,25 @@
+SMAP
+reservation_jsp.java
+JSP
+*S JSP
+*F
++ 0 reservation.jsp
+reservation.jsp
++ 1 header-side.jsp
+header-side.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,2:60
+4,4:63
+7,36:67
+1#1,319:102
+42#0,37:420
+78:522,11
+79:533
+80,6:534,3
+86,11:552
+96,13:459
+1#2,12:472
+108#0,22:483
+*E
